@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chem/Moles of solution.md",
+                "file": "chem/Moles_of_solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chem/Ionisation.md",
+                "file": "phys/Internal_Resistance.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chem/Moles of solution.md",
+                "file": "chem/Moles_of_solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chem/Ionisation.md",
+                "file": "phys/Internal_Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chem/Ionisation.md",
+                "file": "phys/Internal_Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chem/Ionisation.md"
+                "file": "phys/Internal_Resistance.md"
               }
             }
           }
@@ -229,21 +229,21 @@
   },
   "active": "ae6051bbc8cc72d0",
   "lastOpenFiles": [
+    "chem/Moles_of_solution.md",
+    "chem/Electron_Structure.md",
+    "chem/Intermolecular_Forces.md",
+    "chem/Ionisation.md",
     "README.md",
     "chem/Bonding.md",
     "chem/chem-igor.md",
-    "chem/Intermolecular Forces.md",
     "chem/Electronegativity.md",
-    "chem/Electron Structure.md",
     "chem/index.md",
-    "chem/Ionisation.md",
     "chem/Ions.md",
     "chem/Isotopes.md",
     "chem/Mole.md",
     "chem/Spectrometry.md",
-    "chem/Moles of solution.md",
     "chem/Moles&Formulae.md",
-    "phys/Internal Resistance.md",
+    "phys/Internal_Resistance.md",
     "phys/Electricity.md",
     "index.md",
     "math/formulae.md",
